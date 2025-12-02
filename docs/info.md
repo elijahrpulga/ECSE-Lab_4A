@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-A XOR B XOR C A AND B OR A AND C OR B AND C.
+Two bit adder with carry input
 
 ## How to test
 
-Try every combination of 1 2 and 3 bits.
+Try every combination of one, two, and three bits.
 
 ## External hardware
 
